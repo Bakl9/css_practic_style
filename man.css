@@ -36,3 +36,15 @@ button {
     transform: scale(2)
 
 } */
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    background-color: black;
+} */
