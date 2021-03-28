@@ -104,3 +104,14 @@ title {
     justify-content: center;
     align-items: center;
 }
+
+.tutorial {
+    background-color: rgb(64, 170, 105);
+    height: 200px;
+    width: 100%;
+}
+.nav {
+    background-color: rgb(141, 136, 90);
+    height: 200px;
+    width: 100%;
+} */
