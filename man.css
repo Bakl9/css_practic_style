@@ -26,3 +26,13 @@ div:hover {
 /* * {
     color: red;
 } */
+button {
+    width: 100px;
+    height: 100px;
+    transition: 1s all;
+}
+
+.pao:hover {
+    transform: scale(2)
+
+} */
