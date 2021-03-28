@@ -115,3 +115,11 @@ title {
     height: 200px;
     width: 100%;
 } */
+
+.div_link {
+    background-color: rgb(77, 31, 95);
+    height: 200px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
